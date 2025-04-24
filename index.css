@@ -132,7 +132,7 @@ a {
 
 .title {
   font-size: 44px;
-  width: 45%;
+  /* width: 45%; */
   margin-bottom: 35px;
   font-weight: 700;
 }
